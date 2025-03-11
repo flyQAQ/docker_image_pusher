@@ -1,2 +1,1 @@
-node:20-slim
-nginx:stable-alpine
+archivebox/archivebox
